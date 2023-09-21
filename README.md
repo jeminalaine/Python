@@ -6,3 +6,4 @@
    - pip install plotly
    - pip install statsmodels
    - pip install matplotplib
+3. Aja koodi (run)
